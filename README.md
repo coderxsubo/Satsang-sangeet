@@ -71,3 +71,59 @@
 
 </body>
 </html>
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.header {
+    background-color: #80BFFF;
+    padding: 25px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.image-container {
+    margin: 10px 0;
+}
+
+.main-image {
+    width: 100%;
+    max-width: 640px;
+}
+
+.title {
+    background-color: #80BFFF;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.description {
+    margin: 10px 0;
+}
+
+.song {
+    background-color: #80BFFF;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.song h4 {
+    margin: 0;
+}
+
+.song p {
+    margin: 5px;
+}
